@@ -6,3 +6,4 @@ git has a mutable index called stage
 
 
 66666
+7777
