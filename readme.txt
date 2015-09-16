@@ -12,3 +12,4 @@ git has a mutable index called stage
 666
 >>>>>>> feature1
 create a new branch is quick and simple
+88888
